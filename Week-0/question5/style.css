@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(231, 229, 229);
+}
+
+section h1 {
+    text-align: center;
+}
+
+nav {
+    background-color: #27a7ce;
+    overflow: hidden;
+}
+  
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+main img {
+    margin-top: 10px;
+    height: 450px;
+    width: 100%;
+}
+
+main p{
+    padding: 10px;
+    border: black dashed;
+}
+
+#about h2{
+    text-align: center;
+}
+
+#contact h5 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+footer {
+    margin-top: 10px;
+    text-align: right;
+}
